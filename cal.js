@@ -10,7 +10,8 @@ try
 }
 catch(err)
 {
-    alert("Invalid");
+    alert("Enter the valid inputs");
+    Clear();
 }
 }
 function Clear(){
