@@ -22,7 +22,7 @@ function Calculate() {
         } else {
             // Remove the last character if it is an operator
             const lastChar = outputscreen.value.slice(-1);
-            const operators = "+-*/.";
+            const operators = "+-*/.%";
             if (operators.includes(lastChar)) {
                 outputscreen.value = outputscreen.value.slice(0, -1);
             }
