@@ -79,20 +79,21 @@ button{
       background-color: rgb(136, 130, 123);
    }
    input{
-      grid-column: span 4;
-    height: 70px;
-    width: 290px;
-    background-color:#ecf0f3;
-    box-shadow: inset -5px -5px 12px #ffffff,
-                inset 5px 5px 12px rgba(0,0,0,.16);
-    border: none;
-    border-radius: 10px;
-    color: rgb(70, 70, 70);
-    font-size: 50px;
-    text-align: end;
-    margin: auto;
-    margin-top: 20px;
-    margin-bottom: 30px;
-    padding: 20px;
+    grid-column: span 4;
+    height: 50px;
+    width: 100%;
+    font-size: 30px;
+    padding: 10px;
    }
+   button{
+      height: 40px;
+      width: 40px;
+      margin: 5px;
+      font-size: 14px;
+   }
+   .equal{
+      width: 100%;
+      font-size: 24px;
+   }
+   
 }
