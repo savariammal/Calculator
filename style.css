@@ -92,7 +92,7 @@ button{
       margin: auto;
       padding-right: 25px;
       font-size: 40px;
-      overflow:auto;
+      overflow-x:auto;
    }
    button{
       height: 48px;
