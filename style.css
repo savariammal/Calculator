@@ -33,7 +33,7 @@
     box-shadow: inset -5px -5px 12px #ffffff,
                 inset 5px 5px 12px rgba(0,0,0,.16);
     border: none;
-    border-radius: 10px;
+    border-radius: px;
     color: rgb(70, 70, 70);
     font-size: 50px;
     text-align: end;
@@ -90,8 +90,9 @@ button{
       color: rgb(70, 70, 70);
       text-align: end;
       margin: auto;
-      padding-right: 21px;
+      padding-right: 25px;
       font-size: 40px;
+      overflow:auto;
    }
    button{
       height: 48px;
