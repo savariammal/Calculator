@@ -88,11 +88,10 @@ button{
       border: none;
       border-radius: 8px;
       color: rgb(70, 70, 70);
-      font-size: 50px;
       text-align: end;
       margin: auto;
       padding-right: 21px;
-      font-size: 30px;
+      font-size: 40px;
    }
    button{
       height: 48px;
